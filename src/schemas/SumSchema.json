@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "required": ["nb1", "nb2"],
+  "properties": {
+    "nb1": {
+      "type": "number"
+    },
+    "nb2": {
+      "type": "number"
+    }
+  }
+}

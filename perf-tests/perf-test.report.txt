@@ -1,0 +1,52 @@
+[INFO] Run test on AJV
+[Wed May 13 2020 09:12:19 GMT+0200 (GMT+02:00)] INFO Requests: 0 (0%), requests per second: 0, mean latency: 0 ms
+[Wed May 13 2020 09:12:24 GMT+0200 (GMT+02:00)] INFO Requests: 7676 (77%), requests per second: 1536, mean latency: 0.6 ms
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Target URL:          http://localhost:3000/perf-test/ajv
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Max requests:        10000
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Concurrency level:   1
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Agent:               none
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Completed requests:  10000
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Total errors:        0
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Total time:          6.207016404 s
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Requests per second: 1611
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Mean latency:        0.6 ms
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Percentage of the requests served within a certain time
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO   50%      1 ms
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO   90%      1 ms
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO   95%      1 ms
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO   99%      1 ms
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO  100%      47 ms (longest request)
+[INFO] Run test on JOI
+[Wed May 13 2020 09:12:25 GMT+0200 (GMT+02:00)] INFO Requests: 0 (0%), requests per second: 0, mean latency: 0 ms
+[Wed May 13 2020 09:12:30 GMT+0200 (GMT+02:00)] INFO Requests: 6365 (64%), requests per second: 1274, mean latency: 0.6 ms
+[Wed May 13 2020 09:12:35 GMT+0200 (GMT+02:00)] INFO Requests: 6365 (64%), requests per second: 0, mean latency: 0 ms
+[Wed May 13 2020 09:12:40 GMT+0200 (GMT+02:00)] INFO Requests: 6365 (64%), requests per second: 0, mean latency: 0 ms
+[Wed May 13 2020 09:12:45 GMT+0200 (GMT+02:00)] INFO Requests: 6365 (64%), requests per second: 0, mean latency: 0 ms
+[Wed May 13 2020 09:12:50 GMT+0200 (GMT+02:00)] INFO Requests: 6365 (64%), requests per second: 0, mean latency: 0 ms
+[Wed May 13 2020 09:12:56 GMT+0200 (GMT+02:00)] INFO Requests: 6515 (65%), requests per second: 26, mean latency: 173.6 ms
+[Wed May 13 2020 09:12:56 GMT+0200 (GMT+02:00)] INFO Errors: 1, accumulated errors: 1, 0% of total requests
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Target URL:          http://localhost:3000/perf-test/joi
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Max requests:        10000
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Concurrency level:   1
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Agent:               none
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Completed requests:  10000
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Total errors:        1
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Total time:          33.215476059000004 s
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Requests per second: 301
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Mean latency:        3.3 ms
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO Percentage of the requests served within a certain time
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO   50%      1 ms
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO   90%      1 ms
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO   95%      1 ms
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO   99%      1 ms
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO  100%      25971 ms (longest request)
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO  100%      25971 ms (longest request)
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO 
+[Wed May 13 2020 09:12:58 GMT+0200 (GMT+02:00)] INFO    -1:   1 errors
